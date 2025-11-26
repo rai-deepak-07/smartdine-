@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/smartdine-/static/css/main.28d3450f.css",
-    "main.js": "/smartdine-/static/js/main.db2b8c1c.js",
+    "main.js": "/smartdine-/static/js/main.cd83eea0.js",
     "static/js/453.b098a689.chunk.js": "/smartdine-/static/js/453.b098a689.chunk.js",
     "static/media/pizza-8968566.png": "/smartdine-/static/media/pizza-8968566.8b29fbb7cb358aca5e2a.png",
     "static/media/kitchen-6878026.jpg": "/smartdine-/static/media/kitchen-6878026.6ce8bfd52f1126a7271b.jpg",
@@ -11,11 +11,11 @@
     "static/media/logo.png": "/smartdine-/static/media/logo.a2a064a6d9517e858379.png",
     "index.html": "/smartdine-/index.html",
     "main.28d3450f.css.map": "/smartdine-/static/css/main.28d3450f.css.map",
-    "main.db2b8c1c.js.map": "/smartdine-/static/js/main.db2b8c1c.js.map",
+    "main.cd83eea0.js.map": "/smartdine-/static/js/main.cd83eea0.js.map",
     "453.b098a689.chunk.js.map": "/smartdine-/static/js/453.b098a689.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28d3450f.css",
-    "static/js/main.db2b8c1c.js"
+    "static/js/main.cd83eea0.js"
   ]
 }
